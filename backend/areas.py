@@ -9,3 +9,6 @@ def areaCirculo(radio):
     
 def areaCuadrado(lado):
     print(lado * lado)
+    
+def areaTriangulo(base, altura):
+    print(0.5*base * altura)
